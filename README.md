@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/altilium.png" alt="icone" width="300"/>
+  <img src="screenshot/altilium.png" alt="icone" width="300"/>
 </p>
 
 # Altilium-DB: Um Banco de Dados Key-Value em Rust
